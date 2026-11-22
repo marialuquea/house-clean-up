@@ -42,7 +42,7 @@ export default function Home() {
   return html`<div class="wrap">
     <header class="hero">
       <h1>${OWNER_NAME}'s clear-out</h1>
-      <p>Everything must go (to a good home). Tap anything you like.</p>
+      <p>Everything must go (to a good home). Tap anything you like. Pick up is from 34 Goldsmiths Row.</p>
     </header>
     ${body}
   </div>`;
